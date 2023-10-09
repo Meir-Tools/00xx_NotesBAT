@@ -1,5 +1,6 @@
 ::-----------------------------------------------------------------------------
-:: Creator , Note by date , xxxx_xx_xx_notes
+:: Creator / Writer , Meir.e, Note by date , xxxx_xx_xx_notes
+:: 
 ::-----------------------------------------------------------------------------
 @ECHO OFF & TITLE Meir-E &set BATman=%USERPROFILE%\Documents\GitHub\Functions\BATman
 ::---------------------------------- Main--------------------------------------
