@@ -4,6 +4,7 @@
 ::-----------------------------------------------------------------------------
 @ECHO OFF & TITLE Meir-E &set BATman=%USERPROFILE%\Documents\GitHub\Functions\BATman
 ::---------------------------------- Main--------------------------------------
+	cd /D "%~dp0" &REM set the %cd% where batch location 
 	echo %0 &cd %0\..
 	call %BATman% :Print_MAN_Logo
 	:: call %BATman% :ShowMenu %0
