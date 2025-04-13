@@ -12,4 +12,5 @@ CALL %BATman% :AHK_Send_Keys {Enter}
 ```
 when run from ctr+alt+G
 the file are run from sys32 for some reason
+need add cd /D "%~dp0"
 ```
