@@ -1,6 +1,6 @@
 ::-----------------------------------------------------------------------------
 :: Creator / Writer , Meir.e, Note by date , xxxx_xx_xx_notes
-:: 
+:: Ref : https://github.com/Meir-Tools/00xx_NotesBAT/
 ::-----------------------------------------------------------------------------
 @ECHO OFF & TITLE Meir-E &set BATman=%USERPROFILE%\Documents\GitHub\Functions\BATman
 ::---------------------------------- Main--------------------------------------
