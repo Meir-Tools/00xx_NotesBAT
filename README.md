@@ -8,3 +8,8 @@ CALL %BATman% :AHK_Send_Keys !r
 timeout /t 1 /nobreak
 CALL %BATman% :AHK_Send_Keys {Enter}
 ```
+## known problems
+```
+when run from ctr+alt+G
+the file are run from sys32 for some reason
+```
